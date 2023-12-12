@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.app{
+  margin: 2rem;
+}
+
+.expansionButton{
+  background-color: #3904aa; 
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 10px;
+  margin-bottom: 1rem;;
+}
+
+.header{
+  background-color: #3904aa;
+  color: #fff;
+  padding:2rem;
+  text-align: center;
+  font-family: sans-serif;
+}
